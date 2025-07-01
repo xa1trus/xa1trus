@@ -28,21 +28,23 @@ Outside of tech, I’m into music, horror movies, electronics, and weird audio e
 |------|-------------|
 | **Fernwick** | A surreal, narrative-driven fantasy game about a lazy wizard caught in post-revolution chaos *(in development)* |
 | **In the Name of Sabbath** | Southern Gothic survival horror set in a mythic, decaying swamp world – inspired by sludge metal, folklore, and cults *(concept stage)* |
-| **Home Server Project** | Custom home server built on an old laptop running **Debian 12** – includes **Samba file sharing**, CLI tools, and planned additions like Docker. Great for learning sysadmin basics, bash scripting, and troubleshooting real hardware. |
+| **Home Server Project** | Custom home server built on an old laptop running **Debian 12** – includes **Samba file sharing**, CLI tools, and planned additions like Docker. Built to explore sysadmin fundamentals, bash scripting, and troubleshooting on limited hardware. |
 
 > ✨ More projects coming soon – currently balancing school, work, and solo dev time.
 
 ---
-
 # 📂 Home Server Setup (Details)
 
 A personal project to learn Linux and home networking using an old laptop:
 
 - OS: **Debian 12**
+- Hardware: **ASUS X551MA** with an **Intel Celeron N2830 (dual-core)** and **4GB RAM**
 - Services: **Samba**, SSH access, and utility scripts
 - Configs: Mounted drives, file permissions, CLI navigation
+- Storage: ~450GB ext4 drive
 - Why: To learn system maintenance, service management, and Linux-based file sharing
 
+> 💡 The fact it runs smoothly on old hardware proves you don’t need a high-end machine to start learning system administration.
 > 💡 Cleaned and sanitized config samples available soon in separate repo
 
 ---
